@@ -5,7 +5,7 @@ public static void name() {
     int y =12;
     int z = x+y;
     System.out.println(z);
-    System.out.println("hi");
+    System.out.println("h");
 }
 
 
