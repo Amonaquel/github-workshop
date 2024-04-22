@@ -1,5 +1,12 @@
-public static void main(String[] args) {
-    int x =10;
-    int y =9;
-    System.out.println("answer is "+x+y);
+class Main{
+public static void name() {
+    
+    int x = 100;
+    int y =12;
+    int z = x+y;
+    System.out.println(z);
+    System.out.println("hi");
+}
+
+
 }
